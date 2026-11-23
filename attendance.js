@@ -1,6 +1,6 @@
 // 1. Connect to Supabase (same address and visitor pass as before)
-const SUPABASE_URL = "https://zlsiagmjsdzvrogbxbla.supabase.co";
-const SUPABASE_KEY = "sb_publishable_gz62g0665YZA-kR2iNYAGQ_TB4ACOe4";
+const SUPABASE_URL = "https://qytowlfisctdtvnrkqol.supabase.co";
+const SUPABASE_KEY = "sb_publishable_eBbYI2flLYK9go7Q9ZcNTQ_pkrOnsWp";
 const db = supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
 
 // 2. Grab things from the page
